@@ -29,7 +29,7 @@ I'm an MCA student passionate about technology and software development. My jour
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanunjaya-somireddy)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ReddyDhanu50441)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=wordpress&logoColor=white)](https://portfolio.smaranjitghose.codes/techstack.html)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=wordpress&logoColor=white)](https://coderdhanunjayareddy.github.io/my-portfolio/)
 
 ## 📚 Projects
 
