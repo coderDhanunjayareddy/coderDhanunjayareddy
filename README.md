@@ -27,8 +27,8 @@ I'm an MCA student passionate about technology and software development. My jour
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanunjaya-somireddy)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ReddyDhanu50441)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Profile-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanunjaya-somireddy)
+[![Twitter](https://img.shields.io/badge/-Twitter%20Profile-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ReddyDhanu50441)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://coderdhanunjayareddy.github.io/my-portfolio/)
 
 ## 📚 Projects
